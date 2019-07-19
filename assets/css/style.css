@@ -27,3 +27,7 @@ img{
     margin: auto;
     z-index: 100;
 }
+
+.insText {
+    text-align: center;
+}
