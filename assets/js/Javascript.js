@@ -6,7 +6,7 @@ function runQuery(){
       "method": "GET",
     }
 
-  // $(".resultComponent").html("");
+  $(".resultComponent").html("");
 
   $.ajax(settings).done(function (response) {
     console.log(response)
